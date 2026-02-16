@@ -22,11 +22,11 @@ archive/
 # -----------------------------
 # Model Weights (Large Files)
 # -----------------------------
-# model/
-# *.h5
-# *.keras
-# *.pt
-# *.pth
+model/
+*.h5
+*.keras
+*.pt
+*.pth
 
 # -----------------------------
 # Jupyter Notebook checkpoints
